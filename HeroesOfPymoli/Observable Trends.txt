@@ -1,0 +1,6 @@
+- Heroes of Pymoli -
+
+Three Observable Trends:
+1. The 20-24 age range comprises the largest amount of players and total spenders,
+2. Even though the 25-29 age range is roughly a third of the 20-24 range, there is a drastic dropoff in Total Purchase Value, which may signal a change in personal consumer spending preferences or lifestyle,
+3. Males have the lowest average purchase price in comparison to Females & Other/Non-Disclosed, however this is likely skewed because their sample size dwarfs the other two.
